@@ -1,0 +1,44 @@
+.baner {
+    height: 30px;
+    background-color: green;
+}
+
+.menu {
+    min-height: 30px;
+    background-color: #f7f6ec;
+    border-bottom: 2px solid grey;
+}
+
+.tresc {
+    min-height: 350px;
+    background-color: #ddffff;
+}
+
+.stopka {
+    height: 20px;
+    background-color: yellow;
+}
+
+.mybtn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 224px;
+}
+
+#modyfikuj {
+    display: none;
+}
+
+#dodaj {
+    display: none;
+    margin-top: 15px;
+}
+
+#usun {
+    display: none;
+}
+
+#wyswietl {
+    display: none;
+}
+
